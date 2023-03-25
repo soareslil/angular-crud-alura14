@@ -13,4 +13,14 @@ export class CriarPensamentosComponent {
     autoria: 'Liliane Soares',
     modelo: ''
   }
+
+  criarPensamento(){
+    alert('novo pensamento');
+    console.log('botao apertado')
+  }
+
+  cancelar(){
+
+    alert('cancelando pensamento');
+  }
 }
