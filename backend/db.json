@@ -13,12 +13,6 @@
       "modelo": "modelo3"
     },
     {
-      "id": 3,
-      "conteudo": "hello world",
-      "autoria": "liliane",
-      "modelo": "modelo2"
-    },
-    {
       "conteudo": "liliane linda",
       "autoria": "liliane developer",
       "modelo": "modelo2",
@@ -29,18 +23,6 @@
       "autoria": "developer  = ANGULAr <> ",
       "modelo": "modelo2",
       "id": 5
-    },
-    {
-      "conteudo": "222",
-      "autoria": "3333",
-      "modelo": "modelo1",
-      "id": 6
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1",
-      "id": 7
     }
   ]
 }
