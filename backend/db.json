@@ -1,0 +1,22 @@
+{
+  "pensamentos" : [
+    {
+      "id": 1,
+      "conteudo" : "hello people",
+      "autoria": "liliane",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 1,
+      "conteudo" : "hi there",
+      "autoria": "liliane",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 1,
+      "conteudo" : "hello world",
+      "autoria": "liliane",
+      "modelo": "modelo2"
+    }
+  ]
+}
