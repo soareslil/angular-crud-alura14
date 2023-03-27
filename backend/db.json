@@ -1,28 +1,16 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "hello people",
+      "conteudo": "novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... novo pensamento.... ",
+      "autoria": "liliane soares",
+      "modelo": "modelo1",
+      "id": 6
+    },
+    {
+      "conteudo": "heeeee",
       "autoria": "liliane",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 2,
-      "conteudo": "hi there",
-      "autoria": "liliane",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "liliane linda",
-      "autoria": "liliane developer",
-      "modelo": "modelo2",
-      "id": 4
-    },
-    {
-      "conteudo": "TESTANDO - liliane angular developer",
-      "autoria": "developer  = ANGULAr <> ",
-      "modelo": "modelo2",
-      "id": 5
+      "modelo": "modelo3",
+      "id": 7
     }
   ]
 }
