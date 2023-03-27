@@ -2,4 +2,4 @@
 ## Escola ALURA
 ### CRUD
 
-![](memoteca.gif)
+![](https://github.com/soareslil/angular-crud-alura14/blob/main/Memoteca.gif)
