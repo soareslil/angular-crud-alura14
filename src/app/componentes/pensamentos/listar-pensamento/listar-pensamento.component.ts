@@ -13,6 +13,9 @@ export class ListarPensamentoComponent implements OnInit {
   paginaAtual: number = 1;
   haMaisPensamentos: boolean = true;
 
+  filtro: string = '';
+
+
   constructor(private service: PensamentoService) { }
 
   ngOnInit(): void {
