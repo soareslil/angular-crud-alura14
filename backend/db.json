@@ -12,14 +12,14 @@
       "autoria": "1111",
       "modelo": "modelo1",
       "id": 2,
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "222222",
       "autoria": "22222",
       "modelo": "modelo2",
       "id": 3,
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "33333",
