@@ -9,6 +9,7 @@
         class="filtro"
         autofocus
         [(ngModel)]="filtro"
+        (keyup)="pesquisarPensamentos()"
       >
       <img src="/assets/imagens/lupa.png" alt="lupa">
     </div>
